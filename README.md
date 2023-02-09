@@ -12,13 +12,11 @@
 
 <hr>
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathang15&theme=rose_pine&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=rose_pine&show_icons=true&count_private=true&layout=compact)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
+ ![Nathan's GitHub stats]
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathang15&theme=rose_pine&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
+ ![Top Langs]
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=rose_pine&show_icons=true&count_private=true&layout=compact" />
 </a>
