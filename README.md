@@ -1,6 +1,8 @@
 # Hello Hello 👋
- <br>
-###👨‍💻Who am I?
+
+ <hr>
+ 
+## 👨‍💻Who am I?
 
 - 🔭 I’m currently a sophomore computer science major at Dickinson College
 - 🌱 I am deeply interested in software development. (Pretty much I just like building stuffs that people can use)
