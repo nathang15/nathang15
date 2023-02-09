@@ -3,7 +3,7 @@
 <!--
 **nathang15/nathang15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##👨‍💻Who am I?
 
 - 🔭 I’m currently a sophomore computer science major at Dickinson College
 - 🌱 I am deeply interested in software development. (Pretty much I just like building stuffs that people can use)
