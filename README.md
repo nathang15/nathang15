@@ -13,8 +13,8 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathang15&theme=rose_pine&show_icons=true&count_private=true&hide=stars&border_color=65E8F6&border_radius=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathang15&theme=calm&show_icons=true&count_private=true&hide=stars&border_radius=6" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=rose_pine&show_icons=true&count_private=true&layout=compact&border_color=65E8F6&border_radius=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=calm&show_icons=true&count_private=true&layout=compact&border_radius=6" />
 </a>
