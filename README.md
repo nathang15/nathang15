@@ -14,4 +14,4 @@
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathang15&theme=rose_pine&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=rose_pine&show_icons=true&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=rose_pine&show_icons=true&count_private=true&layout=compact)]
