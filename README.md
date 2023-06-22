@@ -13,9 +13,3 @@
 
 <hr>
 
-<a href="https://github.com/nathang15/nathang15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathang15&theme=calm&show_icons=true&count_private=true&hide=stars&border_radius=6&text_color=e4e2e2&custom_title=My&nbsp;GitHub&nbsp;Stats"(https://github.com/nathang15/nathang15) />
-</a>
-<a href="https://github.com/nathang15/nathang15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&theme=calm&show_icons=true&count_private=true&layout=compact&border_radius=6&text_color=e4e2e2"(https://github.com/nathang15/nathang15) />
-</a>
