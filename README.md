@@ -1,7 +1,6 @@
-# Hello Hello 👋
+# 👋 About me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathang15&label=Profile%20views&color=0e75b6&style=flat" alt="nathang15" /> </p>
 <hr>
-## 👨‍💻About me
 
 🔭 I’m currently a junior computer science major at Dickinson College</br>
 🌱 I am deeply interested in software development. (Pretty much I just like building stuffs that people can use)</br>
