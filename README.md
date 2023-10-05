@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathang15&label=Profile%20views&color=0e75b6&style=flat" alt="nathang15" /> </p>
 <hr>
 
-[![nathang15's holopin](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
+[![nathang15's holopins](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
 🔭 I’m currently a junior computer science major at Dickinson College</br>
 🌱 I am deeply interested in software development. (Pretty much I just like building stuffs that people can use)</br>
