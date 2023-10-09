@@ -11,7 +11,8 @@
 📷 I'm also very into photography: https://500px.com/p/nhanngyn15?view=photos</br>
 😄 Pronouns: He/Him</br>
 🖥️ [Learn more about me](https://nathan-dev.vercel.app)</br>
-  
+
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathang15&show=reviews&contribs&rank_icon=github&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&hide_progress=true&show_icons=true&theme=dracula)
 <hr>
 
