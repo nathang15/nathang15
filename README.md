@@ -6,9 +6,10 @@
 
 🔭 I’m currently a junior computer science major at Dickinson College</br>
 🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
-- 📘 Currently reading books<br>
+📘 Currently reading books:</br>
   - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+
 📫 Reach me at: nguyennathan1502@gmail.com</br>
 📷 I'm also very into photography: https://500px.com/p/nhanngyn15?view=photos</br>
 😄 Pronouns: He/Him</br>
