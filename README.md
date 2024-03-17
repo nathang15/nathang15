@@ -5,9 +5,11 @@
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
 🔭 I’m currently a junior computer science major at Dickinson College</br>
-🌱 I am deeply interested in software development. (Pretty much I just like building stuffs that people can use)</br>
-👯 I’m looking to collaborate on open-source projects. Currently contributing to [OED (Open Energy Dashboard)](https://github.com/OpenEnergyDashboard/OED)</br>
-📫 Reach me at: nhanngyn15@gmail.com</br>
+🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
+- 📘 Currently reading books<br>
+  - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+  - [ ] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+📫 Reach me at: nguyennathan1502@gmail.com</br>
 📷 I'm also very into photography: https://500px.com/p/nhanngyn15?view=photos</br>
 😄 Pronouns: He/Him</br>
 🖥️ [Learn more about me](https://nathanswe.vercel.app)</br>
