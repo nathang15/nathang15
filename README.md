@@ -7,7 +7,7 @@
 🔭 I’m currently a junior computer science major at Dickinson College</br>
 🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
 🔨 Currently working on:</br>
-  - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Customizable and Lightweight WebServer with everything implements from scratch
+  - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
   - [ ] [Java Microservices Architecture Implementation for Organization (i.e. A company)](https://github.com/nathang15/microservices-organization-structure)
   - [ ] [DsonMarket: Dickinson College Marketplace](https://github.com/nathang15/dson-market)
 
