@@ -9,7 +9,7 @@
 🔨 Currently working on:</br>
   - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
   - [ ] [Java Microservices Architecture Implementation for Organization (i.e. A company)](https://github.com/nathang15/microservices-organization-structure)
-  - [ ] [DsonMarket: Dickinson College Marketplace](https://github.com/nathang15/dson-market)
+  - [x] [DsonMarket: Dickinson College Marketplace](https://github.com/nathang15/dson-market)
 
 📘 Currently reading books:</br>
   - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
