@@ -9,7 +9,7 @@
 🔨 Currently working on:</br>
   - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
   - [ ] [GoBro](https://github.com/nathang15/go-bro): Go Desktop Neural Network Voice Assistant
-  - [x] [DsonMarket: Dickinson College Marketplace](https://github.com/nathang15/dson-market)
+  - [x] [DsonMarket](https://github.com/nathang15/dson-market): Dickinson College Marketplace
 
 📘 Currently reading books:</br>
   - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
