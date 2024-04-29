@@ -8,7 +8,7 @@
 🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
 🔨 Currently working on:</br>
   - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
-  - [ ] [GoBro](https://github.com/nathang15/go-bro): Go Desktop Neural Network Voice Assistant
+  - [ ] [GoBro](https://github.com/nathang15/go-bro): Go + Python Desktop Neural Network Voice Assistant
   - [x] [DsonMarket](https://github.com/nathang15/dson-market): Dickinson College Marketplace
 
 📘 Currently reading books:</br>
