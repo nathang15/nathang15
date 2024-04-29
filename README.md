@@ -8,7 +8,7 @@
 🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
 🔨 Currently working on:</br>
   - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
-  - [ ] [Java Microservices Architecture Implementation for Organization (i.e. A company)](https://github.com/nathang15/microservices-organization-structure)
+  - [ ] [GoBro](https://github.com/nathang15/go-bro): Go Desktop Neural Network Voice Assistant
   - [x] [DsonMarket: Dickinson College Marketplace](https://github.com/nathang15/dson-market)
 
 📘 Currently reading books:</br>
