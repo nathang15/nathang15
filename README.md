@@ -9,6 +9,7 @@
 🔨 Currently working on:</br>
   - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
   - [ ] [GoBro](https://github.com/nathang15/go-bro): Go + Python Desktop Neural Network Voice Assistant
+  - [ ] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Microservices Implemention with Java Spring and Kafka
   - [x] [DsonMarket](https://github.com/nathang15/dson-market): Dickinson College Marketplace
 
 📘 Currently reading books:</br>
