@@ -7,9 +7,9 @@
 🔭 I’m currently a junior computer science major at Dickinson College</br>
 🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
 🔨 Currently working on:</br>
-  - [ ] [ScratchWS](https://github.com/nathang15/ScratchWS): C++20 Portable and Lightweight WebServer
-  - [ ] [GoBro](https://github.com/nathang15/go-bro): Go + Python Desktop Neural Network Voice Assistant
-  - [ ] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Microservices Implemention with Java Spring and Kafka
+  - [ ] [cpp-walkaround](https://github.com/nathang15/cpp-walkaround): C++ 20 Distributed Random Walk Library
+  - [ ] [Go TinyStore](https://github.com/nathang15/go-tinystore): Lightweight distributed cache supports gRPC and REST interfaces
+  - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Boilerplate Microservices Implemention with Java Spring and Kafka
   - [x] [DsonMarket](https://github.com/nathang15/dson-market): Dickinson College Marketplace
 
 📘 Currently reading books:</br>
