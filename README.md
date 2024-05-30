@@ -7,7 +7,7 @@
 🔭 I’m currently a junior computer science major at Dickinson College</br>
 🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
 🔨 Currently working on:</br>
-  - [ ] [GoBro](https://github.com/nathang15/go-bro): Go + Python Lightweight Desktop Voice Assistant 
+  - [ ] [Cello](https://github.com/nathang15/cello): C++20 Resource-efficient & Cross-platform Desktop Voice Assistant
   - [ ] [Go TinyStore](https://github.com/nathang15/go-tinystore): Lightweight distributed cache supports gRPC and REST interfaces
   - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Boilerplate Microservices Implemention with Java Spring and Kafka
   - [x] [DsonMarket](https://github.com/nathang15/dson-market): Dickinson College Marketplace
