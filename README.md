@@ -4,8 +4,8 @@
 
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
-🔭 I’m currently a junior computer science major at Dickinson College</br>
-🌱 Passionate about distributed systems, cloud computing, and microservices.</br>
+🔭 I’m currently a rising senior computer science major at Dickinson College</br>
+🌱 Passionate about distributed systems and cloud computing.</br>
 🔨 Currently working on:</br>
   - [ ] [Cello](https://github.com/nathang15/cello): C++20 Resource-efficient & Cross-platform Desktop Voice Assistant
   - [ ] [Go TinyStore](https://github.com/nathang15/go-tinystore): Lightweight distributed cache supports gRPC and REST interfaces
