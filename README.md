@@ -7,10 +7,10 @@
 🔭 I’m currently a rising senior computer science major at Dickinson College</br>
 🌱 Passionate about distributed systems and cloud computing.</br>
 🔨 Currently working on:</br>
-  - [ ] [Cello](https://github.com/nathang15/cello): C++20 Resource-efficient & Cross-platform Desktop Voice Assistant
+  - [ ] [ImageGen](https://github.com/nathang15/imagegen-cpp): C++20 Stable Diffusion Inference Desktop App
+  - [ ] [Distributed File System](https://github.com/nathang15/dson-market): A Go Distributed File System using Raft
   - [x] [Go TinyStore](https://github.com/nathang15/go-tinystore): A Golang Distributed Cache Implementation
   - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Boilerplate Microservices Implemention with Java Spring and Kafka
-  - [x] [DsonMarket](https://github.com/nathang15/dson-market): Dickinson College Marketplace
 
 📘 Currently reading books:</br>
   - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
