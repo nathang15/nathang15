@@ -8,7 +8,7 @@
 🌱 Passionate about distributed systems and cloud computing.</br>
 🔨 Currently working on:</br>
   - [x] [ImageGen](https://github.com/nathang15/imagegen-cpp): C++20 Stable Diffusion Inference Desktop App
-  - [ ] [Distributed File System](https://github.com/nathang15/go-fs): A Go Distributed File System using Raft
+  - [x] [Distributed File System](https://github.com/nathang15/go-fs): A Go Distributed File System using Raft
   - [x] [Go TinyStore](https://github.com/nathang15/go-tinystore): A Golang Distributed Cache Implementation
   - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Boilerplate Microservices Implemention with Java Spring and Kafka
 
