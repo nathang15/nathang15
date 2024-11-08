@@ -4,16 +4,16 @@
 
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
-🔭 I’m currently a rising senior computer science major at Dickinson College</br>
-🌱 Passionate about distributed systems and cloud computing.</br>
+🔭 I’m currently a computer science major at Dickinson College</br>
+🌱 Passionate about backend/fullstack dev, distributed systems, and cloud computing.</br>
 🔨 Currently working on:</br>
   - [x] [ImageGen](https://github.com/nathang15/imagegen-cpp): C++20 Stable Diffusion Inference Desktop App
   - [x] [Distributed File System](https://github.com/nathang15/go-fs): A Go Distributed File System using Raft
   - [x] [Go TinyStore](https://github.com/nathang15/go-tinystore): A Golang Distributed Cache Implementation
-  - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Boilerplate Microservices Implemention with Java Spring and Kafka
+  - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Java Boilerplate Microservices
 
 📘 Currently reading books:</br>
-  - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+  - [x] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
 
 📫 Reach me at: nguyennathan1502@gmail.com</br>
