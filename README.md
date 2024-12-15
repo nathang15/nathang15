@@ -5,12 +5,9 @@
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
 🔭 I’m currently a computer science major at Dickinson College</br>
-🌱 Passionate about backend/fullstack dev, distributed systems, and cloud computing.</br>
+🌱 Passionate about backend, distributed systems, cloud computing, and low level programming.</br>
 🔨 Currently working on:</br>
-  - [x] [ImageGen](https://github.com/nathang15/imagegen-cpp): C++20 Stable Diffusion Inference Desktop App
-  - [x] [Distributed File System](https://github.com/nathang15/go-fs): A Go Distributed File System using Raft
-  - [x] [Go TinyStore](https://github.com/nathang15/go-tinystore): A Golang Distributed Cache Implementation
-  - [x] [Java Microservices Impl](https://github.com/nathang15/microservices-organization-structure): Java Boilerplate Microservices
+  - [ ] Low latency trading system with real-time individual stock analysis
 
 📘 Currently reading books:</br>
   - [x] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
