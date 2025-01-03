@@ -7,11 +7,11 @@
 🔭 I’m currently a computer science major at Dickinson College</br>
 🌱 Passionate about backend, distributed systems, cloud computing, and low level programming.</br>
 🔨 Currently working on:</br>
-  - [ ] Low latency trading system with real-time individual stock analysis
+  - [ ] Low latency trading system
 
 📘 Currently reading books:</br>
   - [x] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-  - [ ] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+  - [x] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
 
 📫 Reach me at: nguyennathan1502@gmail.com</br>
 📷 I'm also very into photography: https://500px.com/p/nhanngyn15?view=photos</br>
