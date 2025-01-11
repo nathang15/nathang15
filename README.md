@@ -7,6 +7,7 @@
 🔭 I’m currently a computer science major at Dickinson College</br>
 🌱 Passionate about backend, distributed systems, cloud computing, and low level programming.</br>
 🔨 Currently working on:</br>
+  - [ ] NLP Backtesting Framework
   - [ ] Low latency trading system
 
 📘 Currently reading books:</br>
