@@ -7,8 +7,8 @@
 🔭 I’m currently a computer science major at Dickinson College</br>
 🌱 Passionate about backend, distributed systems, cloud computing, and low level programming.</br>
 🔨 Currently working on:</br>
-  - [ ] NLP Backtesting Framework
-  - [ ] Low latency trading system
+  - [X] NLP Backtesting Framework
+  - [X] Low latency trading system
 
 📘 Currently reading books:</br>
   - [x] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
