@@ -5,14 +5,15 @@
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
 🔭 I’m currently a computer science major at Dickinson College</br>
-🌱 Passionate about backend, distributed systems, cloud computing, and low level programming.</br>
+🌱 Working on backend, distributed systems, cloud computing, and low level programming.</br>
 🔨 Currently working on:</br>
   - [X] NLP Backtesting Framework
   - [X] Low latency trading system
+  - [ ] Time-series Database
 
 📘 Currently reading books:</br>
-  - [x] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-  - [x] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+  - [ ] [Computer Organization and Design RISC-V Edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128122757)
+  - [ ] [Digital Fundamentals](https://www.amazon.com/Digital-Fundamentals-11th-Thomas-Floyd/dp/0132737965)
 
 📫 Reach me at: nguyennathan1502@gmail.com</br>
 📷 I'm also very into photography: https://500px.com/p/nhanngyn15?view=photos</br>
