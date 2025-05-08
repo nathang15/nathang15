@@ -4,7 +4,6 @@
 
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
-🔭 I’m currently a computer science major at Dickinson College</br>
 🌱 Working on backend, distributed systems, cloud computing, and low level programming.</br>
 🔨 Currently working on:</br>
   - [X] NLP Backtesting Framework
