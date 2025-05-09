@@ -4,8 +4,8 @@
 
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
 
-🌱 Working on backend, distributed systems, cloud computing, and low level programming.</br>
-🔨 Currently working on:</br>
+🌱 Working on networks, distributed systems, low level programming, and digital design.</br>
+🔨 Currently side projects//experiments:</br>
   - [X] NLP Backtesting Framework
   - [X] Low latency trading system
   - [ ] Time-series Database
