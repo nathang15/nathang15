@@ -3,9 +3,8 @@
 <hr>
 
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
-I studied Computer Science at Dickinson College. My interestes are in networks, distributed systems, low level programming, digital design (semiconductor), and photo/videography. I'm active in open-source, specifically in data platforms and quant dev community.
+🌱 I studied Computer Science at Dickinson College. My interestes are in networks, distributed systems, low level programming, digital design (semiconductor), and photo/videography. I'm active in open-source, specifically in data platforms and quant dev community.
 
-🌱 Working on .</br>
 🔨 Currently working on:</br>
   - Object storage @ OpenStack
   - Backtest engine
