@@ -18,7 +18,7 @@ I studied Computer Science at Dickinson College. My interestes are in networks, 
   - [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
 
 📷 My photography: https://500px.com/p/nhanngyn15?view=photos</br>
-🖥️ [Learn more about me](https://nathanswe.vercel.app)</br>
+🖥️ [My blog](https://nathang15.vercel.app)</br>
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathang15&show=reviews&contribs&rank_icon=github&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathang15&hide_progress=true&show_icons=true&theme=dracula&hide=jupyter%20notebook)
