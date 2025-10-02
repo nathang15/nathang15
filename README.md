@@ -3,12 +3,11 @@
 <hr>
 
 [![An image of @nathang15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathang15)](https://holopin.io/@nathang15)
-🌱 My interestes are in networks, distributed systems, low level programming, digital RTL design and verification, and photo/videography. I'm active in open-source, specifically in storage and data platforms.
+🌱 My interestes are in networks, distributed systems, low level programming, and photo/videography. I'm active in open-source, specifically in storage and data platforms.
 
 🔨 Currently working on:</br>
-  - Object storage @ OpenStack
-  - Backtest engine
-  - Time-series Database
+  - Data pipeline and networks optimization
+  - Multi-asset backtest engine
 
 📘 Books read so far this year:</br>
   - [Computer Organization and Design RISC-V Edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128122757)
